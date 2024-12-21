@@ -1,4 +1,4 @@
-id: cert_expired
+id: say.8s
 version: 1
 meta:
   name: Expired SSL certificate found
